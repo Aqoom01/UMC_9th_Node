@@ -1,4 +1,4 @@
-<img width="286" height="265" alt="image" src="https://github.com/user-attachments/assets/8a377077-a3c7-42ff-9589-a39aa578dcd1" />## ✅ 1-1. 특정 지역에 가게 추가하기 API
+## ✅ 1-1. 특정 지역에 가게 추가하기 API
 
 ### API 명세
 
@@ -210,3 +210,4 @@ Authorization: Bearer {access_token}
 
 ### Postman 테스트 결과
 <img width="446" height="672" alt="image" src="https://github.com/user-attachments/assets/9603e8b9-dfaa-4f73-acd7-a6045c0bfde9" />
+

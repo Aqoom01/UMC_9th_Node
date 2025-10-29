@@ -1,4 +1,4 @@
-## ✅ 1-1. 특정 지역에 가게 추가하기 API
+<img width="286" height="265" alt="image" src="https://github.com/user-attachments/assets/8a377077-a3c7-42ff-9589-a39aa578dcd1" />## ✅ 1-1. 특정 지역에 가게 추가하기 API
 
 ### API 명세
 
@@ -41,16 +41,13 @@ Authorization: Bearer {access_token}
 ### 해결
 
 ### 서버 로그
-
-![image.png](attachment:3373748b-6711-4aea-b7e2-2e87e30c2d86:image.png)
+<img width="823" height="238" alt="image" src="https://github.com/user-attachments/assets/4839c33a-3b86-4a9b-9900-1c04b57aa007" />
 
 ### DB 저장 결과
-
-![image.png](attachment:d4a16c3d-5d75-406c-8daf-063be86aafe7:image.png)
+<img width="583" height="412" alt="image" src="https://github.com/user-attachments/assets/0ef95f07-918d-4907-8772-ff52e9e04808" />
 
 ### Postman 테스트 결과
-
-![image.png](attachment:2b6a7d4c-b528-44fa-b603-7c2ad0da94d2:image.png)
+<img width="583" height="412" alt="image" src="https://github.com/user-attachments/assets/87e4cefe-6a5e-430f-a0e3-732823fb04a3" />
 
 ## ✅ **1-2. 가게에 리뷰 추가하기 API**
 
@@ -98,26 +95,21 @@ Authorization: Bearer {access_token}
 ### 해결
 
 ### 서버 로그
-
-![image.png](attachment:d23ef77f-8c07-483e-a924-cac617c2aac0:image.png)
+<img width="522" height="55" alt="image" src="https://github.com/user-attachments/assets/2941caef-0984-4932-b826-41d8db9075ce" />
 
 ### DB 저장 결과
 
-![review 테이블](attachment:5ea0ca16-35b8-479d-b805-9efc97562817:image.png)
-
+<img width="340" height="267" alt="image" src="https://github.com/user-attachments/assets/dabe93d5-1167-4fb1-adad-e700cb3aed10" />
 review 테이블
 
-![picture 테이블](attachment:0d51efb2-95f9-462e-a001-f19fb17e22a0:image.png)
-
+<img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/5e1dba41-f5e9-4493-91dd-ca08e154eb94" />
 picture 테이블
 
-![review와 picture 매핑테이블](attachment:f975b7bd-4eac-4a93-896d-a0eaebe3808d:image.png)
-
+<img width="370" height="277" alt="image" src="https://github.com/user-attachments/assets/4fc26687-830b-41cd-84ca-75e29991dd05" />
 review와 picture 매핑테이블
 
 ### Postman 테스트 결과
-
-![image.png](attachment:47ee43c9-3a47-48ef-acbd-8902935620b8:image.png)
+<img width="453" height="672" alt="image" src="https://github.com/user-attachments/assets/0271e71e-d817-4919-b49a-dd23eed7bfb1" />
 
 ## ✅ 1-3. 가게에 미션 추가하기 API
 
@@ -162,16 +154,13 @@ Authorization: Bearer {access_token}
 ### 해결
 
 ### 서버 로그
-
-![image.png](attachment:68012772-8514-4096-880a-b3b0990694f4:image.png)
+<img width="425" height="73" alt="image" src="https://github.com/user-attachments/assets/144faf06-fc08-49cc-af84-9bec395d98f2" />
 
 ### DB 저장 결과
-
-![image.png](attachment:00239bc2-3827-4d9f-8bab-c037c8008d80:image.png)
+<img width="425" height="73" alt="image" src="https://github.com/user-attachments/assets/954c4e0b-c170-4d0f-8ebe-7311755ba8d3" />
 
 ### Postman 테스트 결과
-
-![image.png](attachment:dc2adb03-7f1c-4dda-b17b-939ad0f1946d:image.png)
+<img width="286" height="265" alt="image" src="https://github.com/user-attachments/assets/b0ce4023-8373-4e45-aa55-dbf0ddd88774" />
 
 ## ✅ **1-4. 가게의 미션을 도전 중인 미션에 추가(미션 도전하기) API**
 
@@ -214,13 +203,10 @@ Authorization: Bearer {access_token}
 ### 해결
 
 ### 서버 로그
-
-![image.png](attachment:e79da686-19c7-40f3-bb18-2b03ff158e8b:image.png)
+<img width="210" height="68" alt="image" src="https://github.com/user-attachments/assets/19476d0d-21d9-4b37-a543-eea4ea37d71d" />
 
 ### DB 저장 결과
-
-![image.png](attachment:ac8df407-7544-4425-af6a-d21673829b0b:image.png)
+<img width="480" height="266" alt="image" src="https://github.com/user-attachments/assets/9a9ad2cc-fc5d-4b1a-b023-1269765f7c70" />
 
 ### Postman 테스트 결과
-
-![image.png](attachment:f25264c3-b699-435b-be2e-c75be9a220ed:image.png)
+<img width="446" height="672" alt="image" src="https://github.com/user-attachments/assets/9603e8b9-dfaa-4f73-acd7-a6045c0bfde9" />

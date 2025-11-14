@@ -49,4 +49,4 @@ app.use((err, req, res, next) => {
 
 ## ERROR 던지기
 
-![image.png](attachment:c159bdec-7c2c-42ea-95e2-bba4e0cd02ad:image.png)
+<img width="675" height="187" alt="image" src="https://github.com/user-attachments/assets/fe498176-b94a-4ba4-bff5-1c7e97894bc1" />

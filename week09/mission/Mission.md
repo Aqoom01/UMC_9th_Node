@@ -21,11 +21,11 @@
 
 - isLogin 미들웨어 추가
 
-![image.png](attachment:938376c8-0120-4f2a-b5d9-06f3f9252bd9:image.png)
+<img width="446" height="47" alt="1" src="https://github.com/user-attachments/assets/d97607d1-d7f5-489b-b85e-6f9eb8d4cbfd" />
 
 - 작성자에 대한 올바른 응답
 
-![image.png](attachment:ebf6299d-47db-482e-959f-00c0bdae9209:image.png)
+<img width="518" height="395" alt="2" src="https://github.com/user-attachments/assets/b019750d-7467-43a4-88b4-73b9c35e4c1f" />
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### 결과
 
-![image.png](attachment:e3e8bcb5-ecbb-4473-b9ef-43d9ce3c1671:image.png)
+<img width="787" height="632" alt="3" src="https://github.com/user-attachments/assets/919ab4f1-3f35-42bd-a9c1-e8c2683e0ca0" />
 
 ---
 
@@ -81,4 +81,4 @@
 
 - isLogin 미들웨어를 통해 인증
 
-![image.png](attachment:52265ba8-e3f0-443e-b7d3-c4d581bc008f:image.png)
+<img width="600" height="164" alt="4" src="https://github.com/user-attachments/assets/0064cadf-45a8-41ac-8877-42921faa6dde" />
